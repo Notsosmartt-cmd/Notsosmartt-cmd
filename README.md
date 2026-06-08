@@ -1,6 +1,7 @@
 # Hi 👋, I'm Notsosmartt-cmd
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Notsosmartt-cmd&label=Profile views&color=0e75b6&style=flat" alt="Notsosmartt-cmd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=notsosmartt-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="notsosmartt-cmd" /> </p>
+
 
 - 🔭 I'm currently working on **Research**
 
